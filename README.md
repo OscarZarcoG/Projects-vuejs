@@ -17,12 +17,6 @@ Este repositorio contiene una plantilla optimizada para comenzar el desarrollo d
 - **📦 Gestión optimizada**  
 - **🔍 Calidad de código** 
 
-## 📋 Requisitos Previos
-
-Para aprovechar al máximo esta plantilla, necesitarás tener instalado:
-
-- [Node.js](https://nodejs.org/) (v16+)
-- [PNPM](https://pnpm.io/installation) (recomendado para mejor rendimiento)
 
 ## 🛠️ Configuración del Entorno
 
@@ -30,16 +24,8 @@ Para aprovechar al máximo esta plantilla, necesitarás tener instalado:
 
 Para la mejor experiencia de desarrollo con Vue 3, recomendamos:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+[VSCode](https://code.visualstudio.com/) 
 
-> **Consejo Pro:** Asegúrate de desactivar la extensión Vetur si la tienes instalada para evitar conflictos con Volar.
-
-### Personalización Avanzada
-
-Para ajustar la configuración de Vite según tus necesidades:
-
-- Consulta la [Referencia de Configuración de Vite](https://vitejs.dev/config/)
-- Modifica el archivo `vite.config.js` en la raíz del proyecto
 
 ## 🚀 Comenzando
 
@@ -87,16 +73,6 @@ pnpm install
 - Utiliza la [Composition API](https://vuejs.org/guide/extras/composition-api-faq.html) para componentes más mantenibles
 - Estructura tu estado global con [Pinia](https://pinia.vuejs.org/) (recomendado para Vue 3)
 - Implementa pruebas unitarias con [Vitest](https://vitest.dev/)
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas y apreciadas:
-
-1. Haz fork del repositorio
-2. Crea una rama para tu funcionalidad (`git checkout -b feature/increible-funcion`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir increíble función'`)
-4. Sube tus cambios (`git push origin feature/increible-funcion`)
-5. Abre un Pull Request
 
 ## 📝 Licencia
 
